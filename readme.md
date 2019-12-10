@@ -4,7 +4,7 @@
 
 - 指定した正方形に収まる最大のサイズに画像がリサイズされ、余った部分は黒埋めされます。
 
-<img src="../example.jpg">
+<img src="https://github.com/Yunaka12/square_img/blob/master/example.JPG">
 
 ## 使い方
 ```python:usage
